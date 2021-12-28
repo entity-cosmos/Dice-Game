@@ -16,16 +16,16 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Press Start 2P', cursive;
-  text-shadow: 2px 0 #232931;
-  font-size: 3rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
   color: #406882;
 }
 
 p {
   font-size: 2rem;
   color: #FF5959;
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Lobster', cursive;
 }
 
 img {
@@ -43,7 +43,7 @@ a:link, a:visited {
   text-decoration: none;
   color: #676FA3;
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Lobster', cursive;
 }
 
 a:hover{
